@@ -393,7 +393,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="text-white hover:underline ml-1"
                   >
-                    www.citratranslog.com
+                    https://citratranslog.web.app
                   </a>
                 </div>
               </p>
